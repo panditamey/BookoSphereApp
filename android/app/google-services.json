@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621319125889",
+    "project_id": "bookosphereapp",
+    "storage_bucket": "bookosphereapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621319125889:android:14d9b6a295834a18b88680",
+        "android_client_info": {
+          "package_name": "com.ameypandit.bookosphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-bgT9NaDYngGM1-PA2aldXjzWpqwSSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
