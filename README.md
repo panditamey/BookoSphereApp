@@ -1,5 +1,15 @@
 # bookosphere
 
+Server Repository: 
+```bash
+https://github.com/panditamey/BookoSphereServer
+```
+
+Web Application Repository: 
+```bash
+https://github.com/panditamey/BookoSphereWebApp
+```
+
 A new Flutter project.
 
 ## Getting Started
